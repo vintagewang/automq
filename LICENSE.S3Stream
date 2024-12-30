@@ -7,11 +7,12 @@ Parameters
 Licensor:             AutoMQ HK Limited.
 Licensed Work:        AutoMQ Version 1.1.2 or later. The Licensed Work is (c) 2024
                       AutoMQ HK Limited.
-Additional Use Grant: You may make production use of the Licensed Work, provided
-                      Your use does not include offering the Licensed Work to third
-                      parties on a hosted or embedded basis in order to compete with
-                      AutoMQ's paid version(s) of the Licensed Work. For purposes
-                      of this license:
+Additional Use Grant: You may make production use of the Licensed Work when your
+                      AutoMQ Cluster uses the Licensed Work with a maximum of three
+                      server instances, provided Your use does not include offering
+                      the Licensed Work to third parties on a hosted or embedded basis
+                      in order to compete with AutoMQ's paid version(s) of the Licensed Work.
+                      For purposes of this license:
 
                       A "competitive offering" is a Product that is offered to third
                       parties on a paid basis, including through paid support
